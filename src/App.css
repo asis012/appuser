@@ -1,0 +1,21 @@
+.App {
+ margin: 0px;
+}
+li{
+  margin-bottom: 5px;
+  font-size: 40px;
+  list-style: none;
+  margin-left: -10px;
+}
+#peopleimage{
+  margin-right: 19px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+
+}
+li:nth-child(2n+1) {
+  font-weight: bold;
+  background-color: gainsboro;
+
+}
