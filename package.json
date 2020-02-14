@@ -2,7 +2,7 @@
   "name": "appuser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://asis012.github.io/reactTutorials/app-user",
+  "homepage": "http://asis012.github.io/reactTutorials/appuser",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
